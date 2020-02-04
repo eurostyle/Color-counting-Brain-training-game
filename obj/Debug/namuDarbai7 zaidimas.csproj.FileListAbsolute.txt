@@ -1,0 +1,13 @@
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\bin\Debug\namuDarba7i zaidimas.exe.config
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\bin\Debug\namuDarba7i zaidimas.exe
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\bin\Debug\namuDarba7i zaidimas.pdb
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i_zaidimas.Form1.resources
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i_zaidimas.Properties.Resources.resources
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarbai7 zaidimas.csproj.GenerateResource.cache
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i zaidimas.exe
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i zaidimas.pdb
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarbai7 zaidimas.csprojAssemblyReference.cache
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\bin\Debug\namuDarba7i zaidimas.exe.manifest
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\bin\Debug\namuDarba7i zaidimas.application
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i zaidimas.exe.manifest
+C:\Users\ilgas\source\repos\namuDarba7i zaidimas\obj\Debug\namuDarba7i zaidimas.application
